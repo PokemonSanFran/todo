@@ -1,0 +1,7 @@
+finish analysis of poll
+port scope creep into airtable
+finish text for mining PR
+write one quest stage direction
+do the great renaming
+finish music PR
+write the rest of the quest scripts
