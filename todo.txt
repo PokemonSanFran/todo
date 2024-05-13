@@ -1,5 +1,16 @@
-finish text for mining PR
+# DESKTOP
+Adventure Guide review
+Explorer Kit
+finish Cureno Port
 do the great renaming
 finish music PR
+Merge boss battles
+
+# LAPTOP
+Review VS Deoxys
+Review AdventureGuide
+Audit open tasks for development
 write quest debug menu
 write the rest of the quest scripts
+Fly Enconter DONE
+Phenomena DONE
