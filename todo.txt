@@ -7,10 +7,14 @@ finish music PR
 Merge boss battles
 
 # LAPTOP
-Review VS Deoxys
-Review AdventureGuide
-Audit open tasks for development
-write quest debug menu
+finish hodou tunnels
+update airtable with instances and maps
+go back to old quests and write quest menu dialog
+go back to old quests and write zaps for social media quests
 write the rest of the quest scripts
-Fly Enconter DONE
-Phenomena DONE
+write quest debug menu
+Fly Enconter Spec DONE
+Phenomena Spec DONE
+Finish Freshwater Spring Script DONE
+Review VS Deoxys DONE
+Audit open tasks for development DONE
