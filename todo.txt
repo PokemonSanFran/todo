@@ -7,10 +7,11 @@ finish music PR
 Merge boss battles
 
 # LAPTOP
-finish hodou tunnels
-update airtable with instances and maps
+Rename and reorder VSDeoxys
 go back to old quests and write quest menu dialog
 go back to old quests and write zaps for social media quests
+write PsyOp and hand off
+write Chinatown tunnels
 write the rest of the quest scripts
 write quest debug menu
 Fly Enconter Spec DONE
@@ -18,3 +19,6 @@ Phenomena Spec DONE
 Finish Freshwater Spring Script DONE
 Review VS Deoxys DONE
 Audit open tasks for development DONE
+finish hodou tunnels DONE FOR NOW
+finish deoxys PR DONE FOR NOW
+update airtable with instances and maps DONE
