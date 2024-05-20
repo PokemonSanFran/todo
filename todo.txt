@@ -1,16 +1,15 @@
 # DESKTOP
-Adventure Guide review
+Adventure Guide review DONE
 Explorer Kit
 finish Cureno Port
 do the great renaming
-finish music PR
+finish music_options PR
 Merge boss battles
 
 # LAPTOP
 Rename and reorder VSDeoxys
 go back to old quests and write quest menu dialog
 go back to old quests and write zaps for social media quests
-write PsyOp and hand off
 write Chinatown tunnels
 write the rest of the quest scripts
 write quest debug menu
@@ -22,3 +21,4 @@ Audit open tasks for development DONE
 finish hodou tunnels DONE FOR NOW
 finish deoxys PR DONE FOR NOW
 update airtable with instances and maps DONE
+write PsyOp and hand off DONE
