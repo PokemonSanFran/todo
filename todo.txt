@@ -1,19 +1,17 @@
 # DESKTOP
-Adventure Guide review
 Explorer Kit
 finish Cureno Port
 do the great renaming
 finish music PR
 Merge boss battles
+Adventure Guide review DONE
 
 # LAPTOP
-Rename and reorder VSDeoxys
-go back to old quests and write quest menu dialog
-go back to old quests and write zaps for social media quests
-write PsyOp and hand off
-write Chinatown tunnels
+update scripthandbook with learnings from VSDeoxys
+Write manual for new tweets and quests
 write the rest of the quest scripts
 write quest debug menu
+Rename and reorder VSDeoxys DONE
 Fly Enconter Spec DONE
 Phenomena Spec DONE
 Finish Freshwater Spring Script DONE
@@ -22,3 +20,6 @@ Audit open tasks for development DONE
 finish hodou tunnels DONE FOR NOW
 finish deoxys PR DONE FOR NOW
 update airtable with instances and maps DONE
+write PsyOp and hand off DONE
+go back to old quests and write quest menu dialog DONE
+go back to old quests and write zaps for social media quests DONE
