@@ -2,7 +2,7 @@
 Explorer Kit
 finish Cureno Port
 do the great renaming
-finish music PR
+finish music_options PR
 Merge boss battles
 Adventure Guide review DONE
 
