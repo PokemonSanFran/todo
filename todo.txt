@@ -7,8 +7,6 @@ Merge boss battles
 Adventure Guide review DONE
 
 # LAPTOP
-update scripthandbook with learnings from VSDeoxys
-Write manual for new tweets and quests
 write the rest of the quest scripts
 write quest debug menu
 Rename and reorder VSDeoxys DONE
@@ -23,3 +21,6 @@ update airtable with instances and maps DONE
 write PsyOp and hand off DONE
 go back to old quests and write quest menu dialog DONE
 go back to old quests and write zaps for social media quests DONE
+update scripthandbook with learnings from VSDeoxys DONE
+Write manual for new tweets and quests DONE
+Finish writing new IV screen rules for Breeding Cente DONE
