@@ -1,6 +1,6 @@
 # DESKTOP
-Explorer Kit
-finish Cureno Port
+Explorer Kit DONE
+finish Cureno Port DONE
 do the great renaming
 finish music_options PR
 Merge boss battles
