@@ -1,9 +1,10 @@
 # DESKTOP
 Explorer Kit DONE
 finish Cureno Port DONE
-do the great renaming
+do the great renaming DONE
 finish music_options PR
 Merge boss battles
+Add dummy mega stones
 Adventure Guide review DONE
 
 # LAPTOP
