@@ -2,10 +2,13 @@
 Explorer Kit DONE
 finish Cureno Port DONE
 do the great renaming DONE
-finish music_options PR
-Merge boss battles
-Add dummy mega stones
+test the great renaming DONE
+finish music_options PR DONE
+Investigate fixed_multi_wild bug after merging 1.9 DONE
+Add dummy mega stones DONE
 Adventure Guide review DONE
+Merge 1.9
+Merge boss battles
 
 # LAPTOP
 write the rest of the quest scripts
