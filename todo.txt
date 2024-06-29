@@ -7,6 +7,7 @@ finish music_options PR DONE
 Investigate fixed_multi_wild bug after merging 1.9 DONE
 Add dummy mega stones DONE
 Adventure Guide review DONE
+Fix rename bugs
 Merge 1.9
 Merge boss battles
 
