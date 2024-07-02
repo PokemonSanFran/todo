@@ -28,3 +28,12 @@ go back to old quests and write zaps for social media quests DONE
 update scripthandbook with learnings from VSDeoxys DONE
 Write manual for new tweets and quests DONE
 Finish writing new IV screen rules for Breeding Cente DONE
+
+# EXPANSION
+Start vote for default feature on July 5
+Post default feature decision on July 11
+Post battle difficulty poll on July 11
+Post battle difficultty reminder on July 16
+Analyze battle difficulty on July 22
+Post AI Poll draft on ???
+Post AI Poll public on ???
