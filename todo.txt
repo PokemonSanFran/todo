@@ -1,8 +1,9 @@
 # DESKTOP
-Fix rename bugs
-document what's left for egg's work
+Finish Fake RTC PR
 Merge 1.9
 Merge boss battles
+Fix rename bugs DONE
+document what's left for egg's work DONE
 Explorer Kit DONE
 finish Cureno Port DONE
 do the great renaming DONE
